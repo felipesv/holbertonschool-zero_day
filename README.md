@@ -1,2 +1,2 @@
-*Emphasize* _create bu: Felipe Satizabal_
-**Strong** __Holbeton Repository__
+_create by: Felipe Satizabal_
+__Holbeton Repository__
