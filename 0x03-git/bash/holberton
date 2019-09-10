@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 
+=======
+>>>>>>> 729949d4c120fe040867d9f241db072555424136
 echo "Holberton School"
